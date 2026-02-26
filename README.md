@@ -29,30 +29,6 @@ The project demonstrates structured analytical thinking, relational database mod
 
 -   
 
----
-
-## 📂 Repository Structure
-
-Olympics-Analytics/
-│
-├── data/
-│   ├── raw/
-│   └── processed/
-│
-├── notebooks/
-│   └── olympics_analysis.ipynb
-│
-├── powerbi_exports/
-│   ├── powerbi_medal_summary.csv
-│   ├── powerbi_participation_trend.csv
-│   ├── powerbi_sports_trend.csv
-│   ├── powerbi_physical_trend.csv
-│   └── powerbi_medal_efficiency.csv
-│
-├── olympics.duckdb
-├── dashboard_screenshots/
-└── README.md
-
 
 ---
 
