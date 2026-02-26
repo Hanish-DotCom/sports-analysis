@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Olympic_rings_without_rims.svg/512px-Olympic_rings_without_rims.svg.png" alt="Olympic Rings Logo" width="300"/>
-</p>
-
 # 🏅 Olympics Data Analysis & Visualization Project
 
 ---
