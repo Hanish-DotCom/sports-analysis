@@ -1,8 +1,6 @@
 # 🏅 Olympics Data Analysis & Visualization Project
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Olympic_rings_without_rims.svg/512px-Olympic_rings_without_rims.svg.png" alt="Olympic Rings Logo" width="300"/>
-</p>
+
 
 ---
 
@@ -36,3 +34,103 @@ The project demonstrates structured analytical thinking, relational database mod
 ---
 
 ## 📂 Repository Structure
+
+Olympics-Analytics/
+│
+├── data/
+│   ├── raw/
+│   └── processed/
+│
+├── notebooks/
+│   └── olympics_analysis.ipynb
+│
+├── powerbi_exports/
+│   ├── powerbi_medal_summary.csv
+│   ├── powerbi_participation_trend.csv
+│   ├── powerbi_sports_trend.csv
+│   ├── powerbi_physical_trend.csv
+│   └── powerbi_medal_efficiency.csv
+│
+├── olympics.duckdb
+├── dashboard_screenshots/
+└── README.md
+
+
+---
+
+## 🚀 Project Workflow
+
+1. Data Cleaning in Excel  
+2. Relational Database Creation using DuckDB  
+3. SQL-based Exploratory Data Analysis  
+4. Insight Extraction  
+5. Summary Table Export  
+6. Interactive Dashboard Creation in Power BI  
+
+---
+
+## 📊 Key Analytical Areas Covered
+
+### 🏟 Hosting & Games Trends
+- Hosting frequency patterns  
+- Cities hosting multiple editions  
+- Scale of Olympic expansion  
+
+### 🏅 Sports & Events Evolution
+- Emerging sports  
+- Discontinued events  
+- Gender imbalance analysis  
+- Popularity trends  
+
+### 📏 Athlete & Performance Trends
+- Height & weight evolution  
+- Dominant countries by sport  
+- Medal efficiency analysis  
+- Consistent performers across editions  
+
+### 🌍 Regional Growth & Impact
+- Participation growth/decline  
+- Regional medal contribution  
+- Cultural and geographical dominance  
+
+---
+
+## 📷 Power BI Dashboard
+
+### 📌 Add Dashboard Screenshots Below
+
+> Place screenshots inside the `dashboard_screenshots/` folder  
+> and replace the filenames below with your actual images.
+
+---
+
+## 📈 Key Insights
+
+- Modern Olympic Games have expanded significantly in scale.
+- A small group of regions dominates total medal tally.
+- Participation has increased globally over decades.
+- Certain sports show strong regional specialization.
+- Medal efficiency varies significantly across nations.
+
+---
+
+## 🎯 Skills Demonstrated
+
+- Data Cleaning & Validation  
+- Relational Database Modeling  
+- Advanced SQL Joins & Aggregations  
+- Analytical Query Design  
+- Data Visualization & Dashboarding  
+- Data Storytelling  
+
+---
+
+## 📜 License
+
+This project is for educational and portfolio purposes.
+
+---
+
+## ⭐ Connect
+
+If you found this project useful or interesting, feel free to connect or reach out!
