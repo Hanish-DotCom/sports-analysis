@@ -26,8 +26,7 @@ The project demonstrates structured analytical thinking, relational database mod
 - Power BI  
 - VS Code  
 - Git & GitHub
-
--   
+ 
 
 
 ---
